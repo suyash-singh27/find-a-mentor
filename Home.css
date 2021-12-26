@@ -1125,7 +1125,7 @@
   }
 
   .u-section-2 .u-repeater-1 {
-    grid-gap: 0px 0px;
+    grid-auto-columns: 100%;
   }
 
   .u-section-2 .u-image-1 {
