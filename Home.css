@@ -329,6 +329,8 @@
   margin: 24px 538px 0 auto;
 }
 
+
+
 .u-section-2 .u-group-4 {
   width: 464px;
   background-size: auto;
@@ -464,6 +466,14 @@
   background-size: auto;
   min-height: 326px;
   margin: -302px 0 0 auto;
+}
+
+.u-section-2 .u-image-7 {
+  width: 308px;
+  height: 308px;
+  background-image: url("images/suyash.jpg");
+  background-position: 50% 50%;
+  margin: 24px 538px 0 auto;
 }
 
 .u-section-2 .u-container-layout-12 {
